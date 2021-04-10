@@ -60,8 +60,3 @@ button:hover {
     background: rgb(154, 250, 0);
     transform: scale(1.1);
 }
-.equal {
-    grid-row: 5 / 7;
-    grid-column: 4/5;
-    font-size: 40px;
-}
